@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @miguelrfernandes
 - 👀 I’m interested in Biomedical Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a School Project
 - 📫 How to reach me — email
 
 <!---
