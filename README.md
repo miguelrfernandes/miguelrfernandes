@@ -9,9 +9,7 @@ I’m an MSc student in Biomedical Engineering at IST, Lisbon.
 ### 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/miguelroquefernandes/
-
 GitHub: https://www.github.com/miguelrfernandes
-
 Personal Website: https://miguelroquefernandes.com/
 
 ---
