@@ -2,7 +2,9 @@
 
 👋 Hi, I’m @miguelrfernandes
 
-I’m an MSc student in Biomedical Engineering at IST, Lisbon.
+I’m an MSc student in Biomedical Engineering at IST, Lisbon. I love coding and I have worked on several projects both during my academic journey and free time.
+
+I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) with 30k monthly unique users for the last 2 years.
 
 ---
 
