@@ -1,8 +1,9 @@
 # Miguel Roque Fernandes
 
 👋 Hi, I’m @miguelrfernandes
+MSc in Biomedical Engineering at IST, Lisbon
 
-I’m an MSc student in Biomedical Engineering at IST, Lisbon. I love coding and have worked on several projects during my academic journey and in my free time.
+I love coding and have worked on several projects during my academic journey and in my free time.
 
 I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) with 30k monthly unique users for the last 2 years. It uses vanilla HTML, CSS, JavaScript, and PHP. At the time, I was learning PHP as a challenge, so this was not a serious project and I wouldn't choose PHP to create something nowadays. The project required web scraping, which was done using Puppeteer, Python Selenium, and Python beautifulsoup.
 
@@ -10,7 +11,7 @@ I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) wit
 Recently, I completed a quick challenge using Next.js and Python Flask. This is the approach that I'd use if starting a new project from scratch.
 
 [MSc Thesis Project](https://research.miguelroquefernandes.com/)
-This project, related to my MSc thesis, is built with Next.js and a Python backend.
+This project, which is related to my MSc thesis, is built with Next.js and a Python backend.
 
 [Django App](https://salarios.mfernandes.me/)
 An app built with Django some years ago.
