@@ -11,7 +11,7 @@ I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) wit
 This a quick challenge using Next.js and Python Flask. This is an approach that I'd use if starting a new side project.
 
 [MSc Thesis Project](https://research.miguelroquefernandes.com/)
-This project, which is related to my MSc thesis, is built with Next.js and a Python backend.
+MSc thesis project built with Next.js and Python in the backend.
 
 [Django App](https://salarios.mfernandes.me/)
 An app built with Django some years ago.
