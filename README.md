@@ -1,6 +1,6 @@
 # Miguel Roque Fernandes
 
-👋 Hi, I’m @miguelrfernandes
+👋 Hi, I’m @miguelrfernandes <a href="https://github.com/miguelrfernandes"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 MSc in Biomedical Engineering at IST, Lisbon
 
 I love coding and have worked on several projects during my academic journey and in my free time.
@@ -13,18 +13,18 @@ This a quick challenge using Next.js and Python Flask. This is an approach that 
 [MSc Thesis Project](https://research.miguelroquefernandes.com/)
 MSc thesis project built with Next.js and Python in the backend.
 
-[Django App](https://salarios.mfernandes.me/)
+[Django App](https://salarios.miguelroquefernandes.com/)
 An app built with Django some years ago.
 
 ---
 
 ### 📫 How to reach me
 
-LinkedIn: https://www.linkedin.com/in/miguelroquefernandes/
+💼 LinkedIn: https://www.linkedin.com/in/miguelroquefernandes/
 <br/>
-GitHub: https://www.github.com/miguelrfernandes
+⛵️ GitHub: https://www.github.com/miguelrfernandes
 <br/>
-Personal Website: https://miguelroquefernandes.com/
+🚀 Personal Website: https://miguelroquefernandes.com/
 
 ---
 
