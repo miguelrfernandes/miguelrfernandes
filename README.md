@@ -6,10 +6,12 @@
 
 I love coding and have worked on several projects during my academic journey and in my free time.
 
-I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) with 30k monthly unique users for the last 2 years. It uses vanilla HTML, CSS, JavaScript, and PHP. At the time, I was learning PHP as a challenge, so this was not a serious project. The project required web scraping, which was done using Puppeteer, Python Selenium, and Python beautifulsoup.
+[Polkadot Naming System](https://github.com/polkans/pns) Responsible for the web app and smart contract integration.
+
+I have created a [web app](https://www.miguelroquefernandes.com/wodl-solver) with 30k monthly unique users for the last 2 years. It uses PHP which is what I was learning at that time. The project required web scraping, which was done using Puppeteer, Python Selenium, and Python beautifulsoup.
 
 [Next.js Challenge](https://gitfront.io/r/miguelrfernandes/vGGQvyf3HtTc/nextjs-challenge/)
-This a quick challenge using Next.js and Python Flask. This is an approach that I'd use if starting a new side project.
+This a quick challenge using Next.js and Python Flask.
 
 [MSc Thesis Project](https://research.miguelroquefernandes.com/)
 MSc thesis project built with Next.js and Python in the backend.
